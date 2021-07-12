@@ -1,0 +1,57 @@
+{
+    "hero": [
+        {
+            "id": 1,
+            "title":"movie1",
+            "imageSrc":"./images/hero1.jpeg"
+        },
+        {
+            "id": 2,
+            "title":"movie2",
+            "imageSrc": "./images/hero2.jpeg"
+        },
+        {
+            "id": 3,
+            "title":"movie3",
+            "imageSrc": "./images/hero3.jpeg"
+        },
+        {
+            "id": 4,
+            "title":"movie4",
+            "imageSrc": "./images/hero4.jpeg"
+        },
+        {
+            "id": 5,
+            "title":"movie5",
+            "imageSrc": "./images/hero5.jpeg"
+        }
+    ],
+
+    "movies": [
+        {
+            "id": 1,
+            "title":"movie1",
+            "imageSrc":"./images/movie1.jpeg"
+        },
+        {
+            "id": 2,
+            "title":"movie2",
+            "imageSrc": "./images/hero2.jpeg"
+        },
+        {
+            "id": 3,
+            "title":"movie3",
+            "imageSrc": "https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest?cb=20200502132734"
+        },
+        {
+            "id": 4,
+            "title":"movie4",
+            "imageSrc": "https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest?cb=20200502132734"
+        },
+        {
+            "id": 5,
+            "title":"movie5",
+            "imageSrc": "https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest?cb=20200502132734"
+        }
+    ]
+}
